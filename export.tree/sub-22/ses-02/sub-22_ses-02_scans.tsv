@@ -1,7 +1,0 @@
-filename	acq_time
-func/sub-22_ses-02_task-data_dir-RL_bold.nii.gz	1925-01-01T08:36:56.382500
-func/sub-22_ses-02_task-topup_dir-RL_bold.nii.gz	1925-01-01T08:47:02.610000
-func/sub-22_ses-02_task-topup_dir-LR_bold.nii.gz	1925-01-01T08:48:15.320000
-dwi/sub-22_ses-02_dir-RL_dwi.nii.gz	1925-01-01T08:53:43.760000
-dwi/sub-22_ses-02_dir-LR_dwi.nii.gz	1925-01-01T09:06:35.250000
-anat/sub-22_ses-02_T1w.nii.gz	1925-01-01T09:18:03.515000
